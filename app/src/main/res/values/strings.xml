@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">News Feed</string>
+
+    <!-- Default text to show that the news are today's news -->
+    <string name="today">Today</string>
+
+    <!-- Text to display in the list when there are no Newsfeeds [CHAR LIMIT=NONE] -->
+    <string name="no_newsfeeds">Ex- No News updates available, please check back later or try again.</string>
+
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="read_timeout">10000</string>
+
+    <string name="connect_timeout">15000</string>
+
+</resources>
